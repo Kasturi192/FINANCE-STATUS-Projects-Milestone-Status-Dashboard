@@ -1,4 +1,4 @@
-# Finance Status & Projects Milestone Status Dashboard.xlsx <br>
+# Finance Status & Projects Milestone Status Dashboard <br>
 
 I have created an Interactive Dashboard in Excel<br>
 This dashboard provides a comprehensive overview of project health and progress, tracking key metrics such as project value, milestones, savings, and invoice submission status.<br>
